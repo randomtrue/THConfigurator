@@ -1,0 +1,2 @@
+# THConfigurator
+Therion configuration GUI
